@@ -51,6 +51,10 @@
   background: #FFA101;
 }
 
+.yellow-light-bg {
+  background: rgb(255, 184, 62);
+}
+
 .yellow-text-support {
   color: #fff1c5
 }
@@ -61,6 +65,21 @@
 
 .red-light-bg {
   background: #ff7f8e;
+}
+
+.cyan-bg {
+  background: #88DFF0;
+}
+
+.cyan-light-bg {
+  background: rgb(135, 235, 255);
+}
+
+.laylack-bg {
+  background: #AEA6E2;
+}
+.laylack-light-bg {
+  background: rgb(186, 177, 238);
 }
 
 .soft-shadow {
